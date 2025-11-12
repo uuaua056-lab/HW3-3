@@ -1,0 +1,296 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+header {
+ 
+    display: flex;
+    align-items: center;
+justify-content: space-around;
+margin: 50px;
+
+}
+
+
+header .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    gap: 50px;
+    margin-left: 400px;
+}
+
+nav ul li a {
+    text-decoration: none;
+  color: white;
+    font-size: 25px;
+
+
+}
+body{
+   background: black;
+ 
+
+}
+.begiaka{
+font-weight: 600;
+font-size: 45px;
+line-height: 68px;
+letter-spacing: 0%;
+color: white;
+
+}
+.begiuka{
+    color: rgb(138, 0, 230);
+    font-weight: 600;
+font-size: 45px;
+}
+.doniaka{
+font-weight: 400;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+color: white;
+margin-top: 50px
+;
+
+
+}
+.h1vap{
+    margin-top: 200px;
+}
+.hero1{
+    display: flex;
+}
+.btn1{
+    width: 173px;
+height: 54px;
+opacity: 1;
+gap: 10px;
+border-radius: 5px;
+padding-top: 12px;
+padding-right: 14px;
+padding-bottom: 12px;
+padding-left: 14px;
+font-size: 20px;
+background: linear-gradient(97.16deg, #D10ED1 12.04%, #10A3DA 81.84%);
+border: none;
+margin-right: 25px;
+color: white;
+
+}
+.btn2{
+    width: 173px;
+height: 54px;
+opacity: 1;
+gap: 10px;
+border-radius: 5px;
+padding-top: 12px;
+padding-right: 14px;
+padding-bottom: 12px;
+padding-left: 14px;
+border-width: 1px;
+border: 3px solid #10A3DA ;
+background: black;
+font-size: 20px;
+color: white
+;
+
+}
+.okajon{
+    margin-top: 100px ; 
+
+}
+.scard{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    gap: 50px
+    ;
+}
+.cardh1{
+font-weight: 500;
+font-style: Medium;
+font-size:35px;
+line-height: 100%;
+letter-spacing: 0%;
+
+}
+.c1{
+    margin-top: 50px;
+}
+.scard{
+    margin-bottom: 350px;
+}
+.negrlar{
+    margin-right: 150px;
+    width: 532px;
+height: 439px;
+margin-top: 150px;
+}
+.qwerty{
+    margin-top: 200px;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    gap: 5px
+    ;
+    margin-bottom: 20px;
+
+
+}
+.qh1{
+font-weight: 600;
+font-size: 35px;
+line-height: 100%;
+letter-spacing: 0%;
+color: white;
+margin-top: 10px;
+
+
+
+}
+.pp{
+    color: white;
+font-weight: 400;
+font-size: 28px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.hero3{
+    width: 374px;
+height: 434px;
+background-color: darkblue;
+margin-top: 50px;
+color: white;
+
+
+}
+.imgbrat{
+    width: 375px;
+    height: 255px;
+}
+.h3h1{
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+
+}
+.h3p{
+font-weight: 400;
+line-height: 100%;
+letter-spacing: 0%;
+margin-left: 10px;
+margin-bottom: 35px;
+
+
+}
+.h3btn1{
+    width: 103px;
+height: 36px;
+gap: 10px;
+opacity: 1;
+top: 361px;
+left: 18px;
+border-radius: 5px;
+padding-top: 12px;
+padding-right: 14px;
+padding-bottom: 12px;
+padding-left: 14px;
+background: linear-gradient(97.16deg, #D10ED1 12.04%, #10A3DA 81.84%);
+border: none;
+margin-right: 10px;
+margin-left: 20px;
+color: white;
+font-size: 16px;
+margin-bottom: 35px;
+
+}
+.h3btn2{
+    color: white;
+font-size: 16px;
+border: none;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+border: 3px solid  #D10ED1 ;
+background: darkblue;
+width: 122px;
+height: 36px;
+gap: 10px;
+opacity: 1;
+top: 361px;
+left: 134px;
+border-radius: 5px;
+padding-top: 12px;
+padding-right: 14px;
+padding-bottom: 12px;
+padding-left: 14px;
+border-width: 1px;
+margin-bottom: 35px;
+
+}
+.adahero{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 35px;
+  margin-bottom: 250px;
+}
+.vd{
+    margin-top: 100px;
+    margin-bottom: 250px;
+}
+.hero7{
+    display: flex;
+    gap: 100px;
+}
+
+.otasi{
+    color: white;
+    margin-top: 15px;
+   
+}
+.zorbola{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.yomonbola{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.icons{
+    gap: 10px
+    ;
+    font-size: 30px;
+    color: white;
+}
+.bolalar{
+    color: white;
+    margin-top: 15px;
+}
+.vini{
+    color: white;
+}
